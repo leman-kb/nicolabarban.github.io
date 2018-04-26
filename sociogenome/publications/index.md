@@ -18,8 +18,29 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+### In Press
 
-### 2016 and Advance Access Publications
+* Mills, M.C., N. Barban & F.C. Tropf. (forthcoming). ‘The Sociogenomics of Polygenic Scores of Reproductive Behavior and Their Relationship to Other Fertility Traits,’ RSF: The Russell Sage Foundation Journal of the Social Sciences 4(4), doi: 10.7758/RSF.2018.4.4.07.
+
+### 2017
+
+* Tropf, F.C.  et al. M.C. Mills. (2017).‘Hidden heritability due to heterogeneity across seven populations,’ **Nature Human Behaviour**, 1: 757-765. [doi: 10.1038/s41562-017-0195-1] (http://dx.doi.org/10.1038/s41562-017-0195-1
+
+* Präg, P. & M.C. Mills. (2017). ‘Cultural determinants influence assisted reproduction usage in Europe more than economic and demographic factors’, **Human Reproduction**, 32(11): 2305-2314.[doi: 10.1093/humrep/dex298] (http://dx.doi.org/10.1093/humrep/dex298)
+
+* Verweij, R.M., M.C. Mills et al. (2017). ‘Sexual dimorphism in the genetic influence on human childlessness,’ **European Journal of Human Genetics**, 25: 1067-74. [doi:10.1038/ejhg.2017.105] (http://dx.doi.org/10.1038/ejhg.2017.105)
+
+* Briley, D., F.C. Tropf, M.C.Mills (2017). “What explains the heritability of completed fertility? Evidence from Two large Twin Studies,” **Behaviour Genetics**, 47(1): 36-51. [doi:10.1007/s10519-016-9805-3] (http://dx.doi.org/10.1007/s10519-016-9805-3)
+
+* Barbuscia, A. & M. C. Mills. (2017). ‘Cognitive development in children up to age 11 years born after ART – a longitudinal cohort study,’ **Human Reproduction**. 32(7): 1482-88. [doi: 10.1093/humrep/dex102] (http://dx.doi.org/10.1093/humrep/dex102)
+
+* Präg, P. & M. C. Mills (2017). “Assisted Reproductive Technology in Europe: Usage and Regulation in the Context of Cross-Border Reproductive Care,” pp. 289-309, in: **M. Kreyenfeld & D. Konietzka (Eds.) Childlessness in Europe: Contexts, Causes and Consequences. New York: Springer**.
+
+* Potârcă, G., M. Mills & M. van Duijn. (2017). The Choices and Constraints of Secondary Singles. Willingness to Stepparent among Divorced Online Daters across Europe, **Journal of Family Issues**, 38(10): 1443-1470. [doi: 10.1177/0192513X16631017] (http://dx.doi.org/10.1177/0192513X16631017)
+
+* Präg, P, R. Wittek, M.C. Mills (2017). “The educational gradient in self-rated health in Europe: Does the doctor-patient relationship make a difference?” **Acta Sociologica**, 60(4): 325-341. [doi: 10.1177/0001699316670715] (http://dx.doi.org/10.1177/0001699316670715)
+
+### 2016 
 * Barban N, et. al.  and M.C. Mills (2016) Genome-wide analysis identifies 12 loci influencing human reproductive behavior. **Nature Genetics**, [doi: 10.1038/ng.3698](http://dx.doi.org/10.1038/ng.3698)	[Press release](../data/FAQlanguages); [Frequently Asked Questions (FAQ)](../data/NG2016FAQ); [Data](../data)
 
 * Curtiol A., Tropf, F.C and M.C. Mills (2016) When genes and environment disagree: Making sense of trends in recent human evolution. **PNAS**,  doi: 10.1073/pnas.1608532113 [paper](http://www.pnas.org/content/early/2016/07/01/1608532113)
